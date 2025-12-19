@@ -1,4 +1,4 @@
-# SQA Engineer Preparation Roadmap (December 2025)
+# SQA Engineer Preparation Roadmap 
 
 This is a **step-by-step, sequential learning roadmap** to prepare you for a Software Quality Assurance (SQA) Engineer role in 2025–2026. Follow the steps **one after another**. Complete both theory and hands-on practice before moving to the next step.
 
